@@ -1,0 +1,17 @@
+Ad Copy — Campaign 1: Wolves Match Day
+Final URL: himleycountryhotel.com    Path 1: rooms    Path 2: match-day
+Final URL: himleycountryhotel.com    Path 1: rooms    Path 2: wolverhampton
+Ad Copy — Campaign 2: Himley Hall & Local Area
+Final URL: himleycountryhotel.com    Path 1: local-area
+Final URL: himleycountryhotel.com    Path 1: local-area    Path 2: himley-hall
+Ad Copy — Campaign 3: Wedding Venue
+Final URL: himleycountryhotel.com    Path 1: weddings
+Final URL: himleycountryhotel.com    Path 1: weddings    Path 2: enquire
+Ad Copy — Campaign 4: Contractor & Corporate
+Final URL: himleycountryhotel.com    Path 1: rooms    Path 2: contractor
+Final URL: himleycountryhotel.com    Path 1: rooms    Path 2: corporate
+IMPLEMENTATION GUIDE
+Follow this sequence to get all 4 campaigns live correctly.
+Account Structure
+Budget Allocation (£500/month)
+Go-Live Checklist

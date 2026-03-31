@@ -1,0 +1,31 @@
+PART 1 — COMPETITIVE LANDSCAPE
+Know exactly who we're competing with, what they charge, and where the gaps are.
+1.1  Where We Win — Competitive Advantages
+1.2  Positioning Statement — Who We Are For
+PART 2 — LANDING PAGE COPY
+Complete copy for himleycountryhotel.com/weddings/ — ready to hand to a web developer. Every section is labelled with its HTML element.
+Section 1 — Hero (Above the Fold)
+Section 2 — The Venue Story
+Section 3 — The Four Reasons
+Section 4 — What's Included (Package Overview)
+Section 5 — Capacity & Spaces
+Section 6 — Social Proof (Testimonials)
+Section 7 — The Enquiry Form
+Section 8 — Final Footer CTA
+PART 3 — PHOTOGRAPHY BRIEF
+Hand this section directly to a photographer. It specifies every shot needed, why each one matters, and exactly how it should be taken. Commission this before any marketing goes live — without photography, nothing else works.
+3.1  Essential Venue Shots — Cannot Go Live Without These
+3.2  Secondary Shots (Useful but Not Critical on Day 1)
+PART 4 — FULL MARKETING CAMPAIGN
+4.1  Wedding Directory Listings — Free & Paid
+4.2  SEO Strategy — Organic Search
+4.3  Instagram & Social Media Strategy
+4.4  Supplier Partnership Programme
+The fastest way to fill an enquiry pipeline without advertising spend — build relationships with suppliers who already talk to engaged couples every day.
+4.5  Email Follow-Up Sequences
+Every enquiry that doesn't immediately book a viewing needs a follow-up sequence. Most couples take 2–6 weeks to decide on a venue.
+4.6  Google Ads — Wedding Campaign
+The wedding Google Ads campaign copy is covered in full in the Google Ads document (Campaign 3). Key parameters:
+PART 5 — WEDDING PACKAGES & PRICING FRAMEWORK
+Transparent pricing is the single biggest driver of enquiry conversion on a wedding venue website. Couples who can't self-qualify on budget click away. These are suggested package tiers — adjust figures once real costs are confirmed with the kitchen and events team.
+PART 6 — IMPLEMENTATION TIMELINE
